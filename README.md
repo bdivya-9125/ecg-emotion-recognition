@@ -97,8 +97,7 @@ The script will automatically:
 ---
 ### 2️⃣ Run the MATLAB Script
 
-matlab
-ecg_emotion_recognition.m
+matlab ecg_emotion_recognition.m
 
 ## 📘 Full Project Report
 

@@ -1,0 +1,12 @@
+DREAMER Dataset
+---------------
+This project uses the ECG signals from the DREAMER dataset.
+The dataset is not included in this repository due to license restrictions.
+
+You can download the dataset here:
+https://zenodo.org/record/546113
+
+The dataset contains:
+- ECG recordings
+- EEG recordings
+- Self-assessment ratings for valence, arousal, and dominance.

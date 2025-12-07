@@ -95,10 +95,12 @@ The script will automatically:
 - Generate and save all plots  
 
 ---
+### 2️⃣ Run the MATLAB Script
+
+```matlab
+ecg_emotion_recognition.m
 
 ## 📘 Full Project Report
-
-📘 Full Project Report
 
 📄 Project PDF:
 ECG_Emotion_Recognition.pdf

@@ -98,7 +98,7 @@ The script will automatically:
 
 ## 📘 Full Project Report
 
-report/ECG_Emotion_Recognition_Report.pdf
+report/ECG_Emotion_Recognition.pdf
 
 ---
 
